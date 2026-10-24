@@ -15,7 +15,11 @@ A native PC static recompilation of **Freedom Fighters** (IO Interactive, 2003).
 - Texture and asset replacement system: AI-upscaled textures, UI and assets loaded at runtime as optional packs (dump-and-replace, never shipping original files).
 
 ## Legal
-No game files, code or assets from the original game are included in this repo. You must supply your own legally owned copy.
+This project is **our recompilation code only**. No game files, ISOs, code or assets from the original game are included or distributed, and none ever will be.
+
+It is being built and tested against the original **EU release**. You must supply your own legally owned copy.
+
+**We do not condone piracy.** Please dump your own disc using your own console or drive. Don't download game images.
 
 ## Want to help?
 Reverse engineers, graphics and gameplay people are all welcome. Open an issue to say hi and what you'd like to work on.
